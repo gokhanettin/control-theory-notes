@@ -1,6 +1,6 @@
-# MULTICOPTER NOTES
+# CONTROL THEORY NOTES
 
-Various notes on how multicopters work and more.
+Various notes on how control systems work and more.
 
 ## Copying
 
